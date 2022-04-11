@@ -28,6 +28,8 @@ public class A {
         System.out.println("第二次提交host-fix");//第二次提交host-fix代码
         System.out.println("hello git3");//第三次提交代码
         System.out.println("hello git4");//第四次提交代码
+        System.out.println("pu11 test");//拉取代码
+        
 
 
 
